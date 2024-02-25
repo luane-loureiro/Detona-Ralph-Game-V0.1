@@ -3,6 +3,7 @@
 ## Descrição do Projeto
 Jogo feito na trilha Potência Tech iFood - Desenvolvimento de Jogos.
 O Objetivo do projeto é criar um jogo de Clic, para praticar o uso de Html, CSS e Java Script. tendo em mente todos os conceitos de organização de projeto e boas práticas em codificação.
+O projeto ainda está em desenvolvimento e vai ganhar updades.
 
 
 ## Tecnologias 
@@ -11,4 +12,6 @@ O Objetivo do projeto é criar um jogo de Clic, para praticar o uso de Html, CSS
 
 ## Deploy do Jogo 
 https://detona-ralph-v01.vercel.app/
+
+## Roud Map
 
